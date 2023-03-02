@@ -1,0 +1,11 @@
+# local environment files  
+
+.env*
+
+
+# all files
+*.css
+*.js
+
+# misc
+.vscode
